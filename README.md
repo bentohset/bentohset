@@ -1,9 +1,11 @@
 <h2 align="left">Hi 👋! My name is Benjamin</h2>
 
 ###
+I'm a full-stack software engineer. My interests lie in backend engineering, data pipelines and machine learning!
 
-<p align="left">I'm a full-stack software engineer. My interests lie in backend engineering, data pipelines and machine learning!<br><br>I'm currently learning about concurrent programming and Go<br><br>Learn more about me in my personal website <a src="https://bentohset.dev">here</a></p>
+I'm currently learning about concurrent programming and Go
 
+Learn more about me in my personal website [here](https://bentohset.dev)
 ###
 
 <div align="center">
