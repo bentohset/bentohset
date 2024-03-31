@@ -44,6 +44,4 @@ Learn more about me in my personal website [here](https://bentohset.dev)
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bentohset/bentohset/output/snake.svg" alt="Snake animation" />
-
 ###
