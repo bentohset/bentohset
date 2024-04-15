@@ -1,11 +1,9 @@
-<h2 align="left">Hi I'm Benjamin</h2>
+<h2 align="left">Hi I'm Benjamin 👋</h2>
 
 ###
-I'm a full-stack software engineer. My interests lie in backend engineering, data pipelines and machine learning!
+I'm a full-stack software engineer. My interests lie in backend engineering, distributed systems and machine learning!
 
-I'm currently learning about concurrent programming and Go
-
-Learn more about me in my personal website [here](https://bentohset.dev)
+Learn more about me at my personal website [here](https://bentohset.dev)
 
 
 ###
@@ -18,9 +16,3 @@ Learn more about me in my personal website [here](https://bentohset.dev)
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-###
